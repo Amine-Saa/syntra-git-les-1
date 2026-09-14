@@ -5,4 +5,4 @@ Hallo from Github Editor
 
 'tekst'
 ''tekst''
-naam =  #Python
+# Python 1
