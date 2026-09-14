@@ -5,3 +5,4 @@ Hallo from Github Editor
 
 'tekst'
 ''tekst''
+naam =  #Python
