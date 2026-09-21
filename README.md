@@ -2,4 +2,4 @@
 
 Hallo from Github Editor
 
-[https://docs.python.org/3/builtins/stdtypes.html#string-methods]
+[Python documentatie] (https://docs.python.org/3/builtins/stdtypes.html#string-methods)
